@@ -1,4 +1,4 @@
-# PHP push notifica
+# PHP push notification
 
 # Features!
 
